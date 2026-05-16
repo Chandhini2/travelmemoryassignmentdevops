@@ -60,7 +60,6 @@ flowchart TD
 
     BE1 --> DB[(MongoDB Atlas)]
     BE2 --> DB
-
 '''
 
 ## Features
